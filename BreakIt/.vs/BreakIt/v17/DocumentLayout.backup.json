@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unity\\BreakIt\\",
+  "WorkspaceRootPath": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|d:\\unity\\breakit\\assets\\break it\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|d:\\unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\breakit\\assets\\break it\\scripts\\ads\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|solutionrelative:assets\\break it\\scripts\\ads\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|d:\\unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\breakit\\assets\\break it\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|solutionrelative:assets\\break it\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\BreakIt\\assets\\break it\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\assets\\break it\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|solutionrelative:assets\\break it\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -20,31 +24,31 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\BreakIt\\assets\\break it\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\assets\\break it\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|solutionrelative:assets\\break it\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\BreakIt\\assets\\break it\\scripts\\playershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\assets\\break it\\scripts\\playershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|solutionrelative:assets\\break it\\scripts\\playershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\BreakIt\\assets\\break it\\scripts\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\assets\\break it\\scripts\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|solutionrelative:assets\\break it\\scripts\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\BreakIt\\assets\\break it\\scripts\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\assets\\break it\\scripts\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|solutionrelative:assets\\break it\\scripts\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\BreakIt\\assets\\break it\\scripts\\breakforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\assets\\break it\\scripts\\breakforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|solutionrelative:assets\\break it\\scripts\\breakforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\BreakIt\\assets\\break it\\scripts\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\assets\\break it\\scripts\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|solutionrelative:assets\\break it\\scripts\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\BreakIt\\assets\\break it\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\assets\\break it\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}|Assembly-CSharp.csproj|solutionrelative:assets\\break it\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -55,11 +59,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "AdManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\Ads\\AdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Break It\\Scripts\\Ads\\AdManager.cs",
+              "ToolTip": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\Ads\\AdManager.cs",
+              "RelativeToolTip": "Assets\\Break It\\Scripts\\Ads\\AdManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:12:30.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs [\u53EA\u8BFB]",
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ADManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
@@ -80,22 +97,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CebianlanManager(1).cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T06:17:20.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T06:17:20.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CebianlanManager.cs",
-              "DocumentMoniker": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\CebianlanManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\CebianlanManager.cs",
               "RelativeDocumentMoniker": "Assets\\Break It\\Scripts\\CebianlanManager.cs",
-              "ToolTip": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\CebianlanManager.cs",
+              "ToolTip": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\CebianlanManager.cs",
               "RelativeToolTip": "Assets\\Break It\\Scripts\\CebianlanManager.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAAwAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LevelGenerator.cs",
-              "DocumentMoniker": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\LevelGenerator.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\LevelGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\Break It\\Scripts\\LevelGenerator.cs",
-              "ToolTip": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\LevelGenerator.cs",
+              "ToolTip": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\LevelGenerator.cs",
               "RelativeToolTip": "Assets\\Break It\\Scripts\\LevelGenerator.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAwJ0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LevelLoader.cs",
-              "DocumentMoniker": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\LevelLoader.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\LevelLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Break It\\Scripts\\LevelLoader.cs",
-              "ToolTip": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\LevelLoader.cs",
+              "ToolTip": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\LevelLoader.cs",
               "RelativeToolTip": "Assets\\Break It\\Scripts\\LevelLoader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -128,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlayerShop.cs",
-              "DocumentMoniker": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\PlayerShop.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\PlayerShop.cs",
               "RelativeDocumentMoniker": "Assets\\Break It\\Scripts\\PlayerShop.cs",
-              "ToolTip": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\PlayerShop.cs",
+              "ToolTip": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\PlayerShop.cs",
               "RelativeToolTip": "Assets\\Break It\\Scripts\\PlayerShop.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAIwBIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +156,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Player.cs",
-              "DocumentMoniker": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\Player.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Break It\\Scripts\\Player.cs",
-              "ToolTip": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Break It\\Scripts\\Player.cs",
               "ViewState": "AgIAAOwAAAAAAAAAAAAhwDIBAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,24 +168,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Break It\\Scripts\\GameManager.cs",
-              "ToolTip": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Break It\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T06:22:07.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T06:22:07.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Controls.cs",
-              "DocumentMoniker": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\Controls.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\Controls.cs",
               "RelativeDocumentMoniker": "Assets\\Break It\\Scripts\\Controls.cs",
-              "ToolTip": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\Controls.cs",
+              "ToolTip": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\Controls.cs",
               "RelativeToolTip": "Assets\\Break It\\Scripts\\Controls.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,11 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BreakForce.cs",
-              "DocumentMoniker": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\BreakForce.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\BreakForce.cs",
               "RelativeDocumentMoniker": "Assets\\Break It\\Scripts\\BreakForce.cs",
-              "ToolTip": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\BreakForce.cs",
+              "ToolTip": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\BreakForce.cs",
               "RelativeToolTip": "Assets\\Break It\\Scripts\\BreakForce.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CameraMovement.cs",
-              "DocumentMoniker": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\CameraMovement.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\CameraMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Break It\\Scripts\\CameraMovement.cs",
-              "ToolTip": "D:\\Unity\\BreakIt\\Assets\\Break It\\Scripts\\CameraMovement.cs",
+              "ToolTip": "D:\\Unity\\\u6253\u7834\u5B83\uFF01\uFF01\uFF01\\BreakIt\\Assets\\Break It\\Scripts\\CameraMovement.cs",
               "RelativeToolTip": "Assets\\Break It\\Scripts\\CameraMovement.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

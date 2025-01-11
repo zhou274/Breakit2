@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.SpatialTracking", "UnityEngine.SpatialTracking.csproj", "{B281882C-D796-E759-3575-4BC1EA27EA28}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Services.Core.Internal", "Unity.Services.Core.Internal.csproj", "{58805C65-EB2C-BE81-8FC5-26E7478C59B0}"
@@ -71,8 +73,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Analytics.DataPrivacy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Services.Core.Configuration", "Unity.Services.Core.Configuration.csproj", "{8EA8CB25-4F93-7C9A-89AC-48FDEC9E6C28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.SpatialTracking", "UnityEngine.SpatialTracking.csproj", "{B281882C-D796-E759-3575-4BC1EA27EA28}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.Purchasing.AppleStub", "UnityEngine.Purchasing.AppleStub.csproj", "{BEB94C7D-7BE0-3255-AEC2-25BDF491D542}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlasticSCM.Editor", "Unity.PlasticSCM.Editor.csproj", "{F334CA85-399D-2711-8802-6A1ABB7B7AE9}"
@@ -141,6 +141,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B281882C-D796-E759-3575-4BC1EA27EA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B281882C-D796-E759-3575-4BC1EA27EA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B281882C-D796-E759-3575-4BC1EA27EA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B281882C-D796-E759-3575-4BC1EA27EA28}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1187C376-87FA-DF9B-2A97-E83B1CCE42A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -281,10 +285,6 @@ Global
 		{8EA8CB25-4F93-7C9A-89AC-48FDEC9E6C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EA8CB25-4F93-7C9A-89AC-48FDEC9E6C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EA8CB25-4F93-7C9A-89AC-48FDEC9E6C28}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B281882C-D796-E759-3575-4BC1EA27EA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B281882C-D796-E759-3575-4BC1EA27EA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B281882C-D796-E759-3575-4BC1EA27EA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B281882C-D796-E759-3575-4BC1EA27EA28}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BEB94C7D-7BE0-3255-AEC2-25BDF491D542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BEB94C7D-7BE0-3255-AEC2-25BDF491D542}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEB94C7D-7BE0-3255-AEC2-25BDF491D542}.Release|Any CPU.ActiveCfg = Release|Any CPU

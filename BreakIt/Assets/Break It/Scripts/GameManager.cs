@@ -109,8 +109,11 @@ public class GameManager : MonoBehaviour {
 	public void ReloadScene(float delay) {
 		TryAd();
 		lose.Play();
+		
 		StartCoroutine(Load(delay));
-	}
+        Time.timeScale = 1;
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
 
 
 	public void PauseScene(float delay)
